@@ -82,6 +82,7 @@ app.add_middleware(
         "https://frontend-dn4755hwc-japneet-singhs-projects-28942fc6.vercel.app",
         "https://frontend-fjnvux6uj-japneet-singhs-projects-28942fc6.vercel.app",
         "https://frontend-tawny-seven-3p16shswgi.vercel.app",
+        "https://jarvis.aioninnovations.in",
     ],
     allow_credentials=True,
     allow_methods=["*"],
