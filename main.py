@@ -79,6 +79,7 @@ app.add_middleware(
     allow_origins=[
         "http://localhost:5173",
         "http://127.0.0.1:5173",
+        "https://frontend-dn4755hwc-japneet-singhs-projects-28942fc6.vercel.app",
         "https://frontend-fjnvux6uj-japneet-singhs-projects-28942fc6.vercel.app",
         "https://frontend-tawny-seven-3p16shswgi.vercel.app",
     ],
